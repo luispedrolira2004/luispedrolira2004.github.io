@@ -10,6 +10,7 @@ Att- Groobery.
 
 [========]
 
+
 The web application "Groobery" emerges as a prototype for the possible implementation of weekly nutritional plans. It consists of subscribing to one of the different weekly plans, where a specialized chef from our kitchens prepares meals according to your nutritional plan and delivers them to your home.
 
 Groobery is a very simple landing page that helps to give in a creative and friendly way all the information about how Groobery works to the user. At the bottom of the page there is a section to enter some personal information to contact the user, in case he/she is interested in subscribing to some of the weekly plans that Groobery offers. These data are sent via email to the person in charge of the administration of Groobery to then contact directly with the person interested in the subscription. We invite you to take a look at the [Groobery web page](http://luispedrolira2004.github.io/main.html "Groobery web page")
